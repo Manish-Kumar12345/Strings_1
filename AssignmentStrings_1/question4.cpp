@@ -1,4 +1,4 @@
-// Input a string of even length and reverse the second half of the string.
+// 4. Input a string of even length and reverse the second half of the string.
 #include<iostream>
 #include<string>
 using namespace std;

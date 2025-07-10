@@ -1,4 +1,4 @@
-// Input a string of length n and count all the consonants in the given string.
+// 2. Input a string of length n and count all the consonants in the given string.
 #include<iostream>
 #include<string>
 using namespace std;
